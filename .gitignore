@@ -1,0 +1,10 @@
+# dependências e saída de build (a Vercel instala e compila por conta própria)
+node_modules
+dist
+
+# arquivos locais de plataformas/ferramentas
+.vercel
+.netlify
+.verify
+*.log
+.DS_Store
